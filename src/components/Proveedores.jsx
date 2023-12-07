@@ -73,7 +73,7 @@ function Proveedores() {
         </table>
       ):
       (
-        <p className="text-center mt-10">no Hay clientes aun</p>
+        <p className="text-center mt-10">no Hay Proveedores aun</p>
       )}
     </div>
   )
