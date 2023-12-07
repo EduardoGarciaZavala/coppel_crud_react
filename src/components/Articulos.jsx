@@ -27,7 +27,7 @@ function Articulos() {
         <table className='w-full bg-white mt-5 table-auto'>
           <thead className='bg-blue-600 text-white'>
             <tr>
-              <th className='p-2'>Poducto</th>
+              <th className='p-2'>Productos</th>
               <th className='p-2'>Caracteristicas</th>
               <th className='p-2'>Acciones</th>
             </tr>
